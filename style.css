@@ -1,0 +1,30 @@
+html{
+    background-color: blanchedalmond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+#cast{
+    text-decoration: underline;
+}
+#seasons{
+    text-decoration: underline;
+}
+.season{
+    font-size: ;
+}
+#ps1{
+    height: 250px;
+    width: 250px;
+}
+#ps2{
+    height: 250px;
+    width: 250px;
+}
+#ps3{
+    height: 250px;
+    width: 250px;
+}
